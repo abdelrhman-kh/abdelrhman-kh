@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @abdelrhman-kh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Dotnet Core, Python, Ansbile, Terraform,..etc
+<!---     - 💞️ I’m looking to collaborate on ...     --->
 - 📫 How to reach me ...
+[Linkedin](https://www.linkedin.com/in/abdel-rhman-kh/).
+[Our Contact](https://Abdelrhman.khamis.work).
+
 
 <!---
 abdelrhman-kh/abdelrhman-kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
