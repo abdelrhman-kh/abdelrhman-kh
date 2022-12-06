@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdelrhman-kh
+- 👋 Hi, I’m Abd El-Rhman Khamis
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Dotnet Core, Python, Ansbile, Terraform,..etc
 <!---     - 💞️ I’m looking to collaborate on ...     --->
